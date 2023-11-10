@@ -1,0 +1,14 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\Barkod.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\Barkod.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\Barkod.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\System.Drawing.Common.dll
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\zxing.dll
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\zxing.presentation.dll
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\System.Drawing.Common.xml
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\zxing.xml
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\bin\Debug\zxing.presentation.xml
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\obj\Debug\Barkod.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\obj\Debug\Barkod.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\obj\Debug\Barkod.csproj.CopyComplete
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\obj\Debug\Barkod.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Barkod\obj\Debug\Barkod.pdb
