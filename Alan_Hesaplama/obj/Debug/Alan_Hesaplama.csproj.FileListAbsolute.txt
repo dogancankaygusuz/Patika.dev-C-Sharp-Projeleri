@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\bin\Debug\Alan_Hesaplama.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Alan_Hesaplama\obj\Debug\Alan_Hesaplama.pdb

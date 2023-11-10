@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\bin\Debug\Algoritma.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\bin\Debug\Algoritma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\bin\Debug\Algoritma.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\obj\Debug\Algoritma.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\obj\Debug\Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\obj\Debug\Algoritma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Algoritma\obj\Debug\Algoritma.pdb

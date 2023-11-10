@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\bin\Debug\Daire_Cizme.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\bin\Debug\Daire_Cizme.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\bin\Debug\Daire_Cizme.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\obj\Debug\Daire_Cizme.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\obj\Debug\Daire_Cizme.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\obj\Debug\Daire_Cizme.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Daire_Cizme\obj\Debug\Daire_Cizme.pdb

@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\bin\Debug\Atm.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\bin\Debug\Atm.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\bin\Debug\Atm.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\obj\Debug\Atm.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\obj\Debug\Atm.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Atm\obj\Debug\Atm.pdb

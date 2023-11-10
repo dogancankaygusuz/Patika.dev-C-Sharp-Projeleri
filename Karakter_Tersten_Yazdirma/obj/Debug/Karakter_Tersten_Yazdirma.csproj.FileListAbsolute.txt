@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\bin\Debug\Karakter_Tersten_Yazdirma.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\bin\Debug\Karakter_Tersten_Yazdirma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\bin\Debug\Karakter_Tersten_Yazdirma.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\obj\Debug\Karakter_Tersten_Yazdirma.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\obj\Debug\Karakter_Tersten_Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\obj\Debug\Karakter_Tersten_Yazdirma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Karakter_Tersten_Yazdirma\obj\Debug\Karakter_Tersten_Yazdirma.pdb

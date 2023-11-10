@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\bin\Debug\Mutlak_Kare_Alma.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Mutlak_Kare_Alma\obj\Debug\Mutlak_Kare_Alma.pdb

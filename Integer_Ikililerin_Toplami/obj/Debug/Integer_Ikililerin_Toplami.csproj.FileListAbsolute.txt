@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\bin\Debug\Integer_Ikililerin_Toplami.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\bin\Debug\Integer_Ikililerin_Toplami.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\bin\Debug\Integer_Ikililerin_Toplami.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\obj\Debug\Integer_Ikililerin_Toplami.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\obj\Debug\Integer_Ikililerin_Toplami.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\obj\Debug\Integer_Ikililerin_Toplami.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Integer_Ikililerin_Toplami\obj\Debug\Integer_Ikililerin_Toplami.pdb

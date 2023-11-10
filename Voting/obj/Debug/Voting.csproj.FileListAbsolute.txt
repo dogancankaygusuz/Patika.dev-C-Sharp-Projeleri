@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\bin\Debug\Voting.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\bin\Debug\Voting.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\bin\Debug\Voting.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\obj\Debug\Voting.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\obj\Debug\Voting.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\obj\Debug\Voting.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Voting\obj\Debug\Voting.pdb

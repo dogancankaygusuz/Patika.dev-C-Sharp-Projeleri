@@ -1,0 +1,7 @@
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\obj\Debug\Sessiz_Harf.csproj.AssemblyReference.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\obj\Debug\Sessiz_Harf.csproj.CoreCompileInputs.cache
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\bin\Debug\Sessiz_Harf.exe.config
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\bin\Debug\Sessiz_Harf.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\bin\Debug\Sessiz_Harf.pdb
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\obj\Debug\Sessiz_Harf.exe
+C:\Users\DOĞANCAN\OneDrive\Masaüstü\Patika.dev - C#\Sessiz_Harf\obj\Debug\Sessiz_Harf.pdb
